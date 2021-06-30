@@ -1,0 +1,10 @@
+.navleft {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+h1 {
+    margin: 0!important;
+    padding: 0!important
+}
